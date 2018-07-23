@@ -13,6 +13,8 @@ puts "MY FAVORITE WORD IS #{favorite_word_in_all_caps}"
 
 phrase = "IM NOT SHOUTING".downcase
 
+puts phrase
+
 lowercased_phrase = phrase # Put a . after phrase and use a String method.
 
 # Challenge 4: Count how many letters are in that big_word
