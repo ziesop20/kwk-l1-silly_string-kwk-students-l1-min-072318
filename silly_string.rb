@@ -3,7 +3,7 @@
 
 your_favorite_word = "pamplemousse"
 
-puts "My favorite word is #{your_favorite_word}"
+puts "My favorite word is #{your_favorite_word}."
 
 "pamplemousse".upcase 
 
